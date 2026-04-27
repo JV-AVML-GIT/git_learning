@@ -2,4 +2,8 @@ Om Ganesh
 thanks to gemini
 3rd change in the remote repo to pull into the local repo directly
 4th Change - To test pull 
+<<<<<<< HEAD
 6th change - Test Merge
+=======
+5th change - Test Fetch and Merge
+>>>>>>> 81d242c21ecd4c80037cf83fb55ebf0896e3272c
