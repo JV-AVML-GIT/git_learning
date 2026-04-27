@@ -6,7 +6,3 @@ thanks to gemini
 6th change - Test Merge
 Edit for Merge
 Test Stath and Stashpop
-<<<<<<< HEAD
-=======
-Check parallel editing
->>>>>>> 02c3f638b8b352509f6ab91948775d1d30c40103
