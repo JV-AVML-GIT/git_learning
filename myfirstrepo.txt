@@ -6,3 +6,4 @@ thanks to gemini
 6th change - Test Merge
 Edit for Merge
 Test Stath and Stashpop
+introduce new change for pull and then stash po
